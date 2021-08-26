@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuoAoyang;
+- 👋 Hi, I’m LuoAoyang;
 - 👀 I’m interested in GIS;
 - 🌱 I’m preparing for postgraduate entrance examination.
 
